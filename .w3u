@@ -1,0 +1,49 @@
+{"name": "REPLEY TV",
+"image":"https://yourclubox.com/box/Logos/img1.png",
+"author": "Uruguay - proton",
+"stations": [
+
+{"name":"CANAL 4", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/liv64732946e/39kd9nk36/818737288/52811.ts"},
+
+{"name":"CANAL 4 HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/369582.ts"},
+
+{"name":"10 SAETA HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52816.ts"},
+
+{"name":"10 SAETA FHD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52815.ts"},
+
+{"name":"12 TELEDOCE SD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52820.ts"},
+
+{"name":"VTV HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52832.ts"},
+
+{"name":"VTV FHD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52831.ts"},
+
+{"name":"VTV PLUS SD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52835.ts"},
+
+{"name":"VTV PLUS FHD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52836.ts"},
+
+{"name":"EVENTOS HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/351922.ts"},
+
+{"name":"URU D.SPORT HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/308639.ts"},
+
+{"name":"MAROÑAS HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/392221.ts"},
+
+{"name":"TV CIUDAD HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52838.ts"},
+
+{"name":"CANAL 5 HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/135976.ts"},
+
+{"name":"12 TELEDOCE HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52819.ts"}]}]}]}
