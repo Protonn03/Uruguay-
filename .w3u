@@ -3,9 +3,6 @@
 "author": "Uruguay - proton",
 "stations": [
 
-{"name":"CANAL 4", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
-"url":"http://p2premium.club:8080/liv64732946e/39kd9nk36/818737288/52811.ts"},
-
 {"name":"CANAL 4 HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
 "url":"http://p2premium.club:8080/live/39kd9nk36/818737288/369582.ts"},
 
