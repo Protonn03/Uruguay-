@@ -3,6 +3,9 @@
 "author": "Uruguay - proton",
 "stations": [
 
+{"name":"CHARRUA TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8"},
+
 {"name":"CANAL 4 HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
 "url":"http://p2premium.club:8080/live/39kd9nk36/818737288/369582.ts"},
 
@@ -41,6 +44,15 @@
 
 {"name":"CANAL 5 HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
 "url":"http://p2premium.club:8080/live/39kd9nk36/818737288/135976.ts"},
+
+{"name":"LATINO KIDS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8"},
+
+{"name":"TV FLORIDA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8"},
+
+{"name":"VIVO TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
+"url":"https://stream.vivotv.uy/hls/stream.m3u8"},
 
 {"name":"12 TELEDOCE HD", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsL61f0pdUkeBPzzpF-QQ4h2uJBOej9As_Mw&usqp=CAU", 
 "url":"http://p2premium.club:8080/live/39kd9nk36/818737288/52819.ts"}]}]}]}
